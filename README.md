@@ -26,8 +26,7 @@ Bibliotecas listadas em requirements.txt
 Instalação
 Clone o Repositório
 ----------------------------
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone 
 Crie e Ative um Ambiente Virtual
 --------------------------
 python -m venv venv
